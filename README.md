@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Yeoh+Han+Yi!;" />
 </h1>
 
-<h3 align="center">Computer Science (2nd Major Statistics) @ National University of Singapore.</h3>
+<h3 align="center">CompSci (2nd Major Stats) @ National University of Singapore.</h3>
 
 <br/>
 
@@ -53,8 +53,8 @@
 <h2 align="center">Statistics</h2>
 <br/>
 <div align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=yhanyi&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <hr/>
