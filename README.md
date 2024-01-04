@@ -26,7 +26,7 @@
     <a href="https://github.com/yhanyi" target="_blank">
         <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
     </a>
-    <a href="https://github.com/yhanyi" target="_blank">
+    <a href="https://yhanyi.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=react&logoColor=black" target="_blank" />
     </a>
 </div>
