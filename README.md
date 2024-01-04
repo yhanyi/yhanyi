@@ -53,7 +53,7 @@
 <h2 align="center">Statistics</h2>
 <br/>
 <div align="center">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
     <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
