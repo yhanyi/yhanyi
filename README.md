@@ -14,6 +14,8 @@
 
     ⚛️ Learning React, NextJS, Tailwind and ThreeJS.
 
+    💡 Interested to learn more about C++, Tensorflow and Pytorch.
+
 </div>
 
 <div align="center">
@@ -25,6 +27,9 @@
     </a>
     <a href="https://github.com/yhanyi" target="_blank">
         <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.kaggle.com/yeohhanyi" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank" />
     </a>
     <a href="https://yhanyi.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=react&logoColor=black" target="_blank" />
