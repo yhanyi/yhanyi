@@ -1,22 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yhanyi.yhanyi" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Yeoh+Han+Yi!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&vCenter=true&random=false&width=435&lines=Hello!+%F0%9F%91%8B;I'm+Yeoh+Han+Yi.)](https://git.io/typing-svg)
 
-<h3 align="center">CompSci (2nd Major Stats) @ National University of Singapore.</h3>
+<hr/>
 
-<br/>
+<h3 align="center">About Me</h3>
 
-<div align="center">
-
-    👨‍💻 Currently in the second semester of my freshman year.
-
-    ⚛️ Learning React, NextJS, Tailwind and ThreeJS.
-
-    💡 Interested to learn more about C++, Tensorflow and Pytorch.
-
-</div>
+- 👨‍💻 Currently in the second semester of my freshman year at the National University of Singapore, studying Computer Science with a second major in Statistics.
+- 💻 I only got my first computer after my A-Level Examinations, so I started my coding journey late.
+- ⚛️ I'm currently learning React, NextJS, Tailwind and messing around with ThreeJS.
+- 💡 I'm interested to learn more about C++, Tensorflow and Pytorch if I have time.
+- 🔍 Check out the portfolio website I built over winter break while learning React! https://yhanyi.vercel.app/
 
 <div align="center">
     <a href="mailto:yeohhanyi0916@gmail.com">
@@ -38,8 +32,8 @@
 
 <hr/>
 
-<h2 align="center">Tools and Technologies</h2>
-<br/>
+<h3 align="center">Tools and Technologies</h3>
+
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,threejs,c,cpp"><br>
@@ -47,16 +41,17 @@
     </a>
 </div>
 
+<hr/>
+
 <div align="center">
-    <h2>Contributions</h2>
-    <br>
+    <h3>Contributions</h3>
     <img alt="Contributions Snake" src="https://raw.githubusercontent.com/yhanyi/yhanyi/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
 
-<h2 align="center">Statistics</h2>
-<br/>
+<h3 align="center">Statistics</h2>
+
 <div align="center">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
     <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
