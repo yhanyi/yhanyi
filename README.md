@@ -32,7 +32,7 @@
 
 <hr/>
 
-<h3 align="center">Tools and Technologies</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <div align="center">
     <a href="https://skillicons.dev">
@@ -43,20 +43,16 @@
 
 <hr/>
 
+<div align="center">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
+</div>
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <div align="center">
     <h3>Contributions</h3>
     <img alt="Contributions Snake" src="https://raw.githubusercontent.com/yhanyi/yhanyi/output/github-contribution-grid-snake.svg" />
-</div>
-
-<hr/>
-
-<h3 align="center">Statistics</h2>
-
-<div align="center">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
 </div>
 
 <hr/>
