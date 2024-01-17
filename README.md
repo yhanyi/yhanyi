@@ -4,13 +4,11 @@
 
 <hr/>
 
-<h3 align="center">About Me</h3>
+<h3 align="center">About</h3>
 
 - 👨‍💻 Currently in the second semester of my freshman year at the National University of Singapore, studying Computer Science with a second major in Statistics.
-- 💻 I only got my first computer after my A-Level Examinations, so I started my coding journey late.
-- ⚛️ I'm currently learning React, NextJS, Tailwind and messing around with ThreeJS.
-- 💡 I'm interested to learn more about C++, Tensorflow and Pytorch if I have time.
-- 🔍 Check out the portfolio website I built over winter break while learning React! https://yhanyi.vercel.app/
+- ⚛️ Trying to pick up C++, React and Astro in my free time. Messing around with ThreeJS too.
+- 💡 Interested to learn more about C++, Tensorflow and Pytorch if I have time.
 
 <div align="center">
     <a href="mailto:yeohhanyi0916@gmail.com">
