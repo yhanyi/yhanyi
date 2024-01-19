@@ -46,7 +46,7 @@
     <img height=160 src="https://yeohhanyi-github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
 </div>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
     <img alt="Contributions Snake" src="https://raw.githubusercontent.com/yhanyi/yhanyi/output/github-contribution-grid-snake.svg" />
