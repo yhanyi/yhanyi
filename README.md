@@ -15,7 +15,7 @@
 - 📩 yeohhanyi0916@gmail.com
 - 🤝 [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
 - 📁 [Resume](https://github.com/yhanyi/yhanyi/blob/main/Resume.pdf)
-- 💻 [Personal Website](https://yhanyi.vercel.app)
+- 💻 [Personal Website](https://yeohhanyi.vercel.app)
 - 🤖 [Kaggle](https://www.kaggle.com/yeohhanyi)
 
 <hr/>
