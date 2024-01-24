@@ -7,26 +7,16 @@
 <h3 align="center">About</h3>
 
 - 👨‍💻 Currently in the second semester of my freshman year at the National University of Singapore, studying Computer Science with a second major in Statistics.
-- ⚛️ Trying to pick up C++, React and Astro in my free time. Messing around with ThreeJS too.
-- 💡 Interested to learn more about C++, Tensorflow and Pytorch if I have time.
+- ⚛️ Trying to pick up C++, React and Astro in my free time. Considering messing around with ThreeJS too.
+- 💡 Interested in C++, Tensorflow and Pytorch, as well as fullstack development.
 
-<div align="center">
-    <a href="mailto:yeohhanyi0916@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=black" />
-    </a>
-    <a href="https://www.linkedin.com/in/yeoh-han-yi/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://github.com/yhanyi" target="_blank">
-        <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://www.kaggle.com/yeohhanyi" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank" />
-    </a>
-    <a href="https://yhanyi.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=react&logoColor=black" target="_blank" />
-    </a>
-</div>
+<h3 align="center">Contact/Links</h3>
+
+- 📩 yeohhanyi0916@gmail.com
+- 🤝 [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
+- 📁 [Resume](https://github.com/yhanyi/yhanyi/blob/main/Resume.pdf)
+- 💻 [Personal Website](https://yhanyi.vercel.app)
+- 🤖 [Kaggle](https://www.kaggle.com/yeohhanyi)
 
 <hr/>
 
