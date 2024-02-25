@@ -6,26 +6,26 @@
 
 <h3 align="center">About</h3>
 
-- 👨‍💻 Currently in the second semester of my freshman year at the National University of Singapore, studying Computer Science with a second major in Statistics.
-- ⚛️ Trying to pick up C++, React and Astro in my free time. Considering messing around with ThreeJS too.
-- 💡 Interested in C++, Tensorflow and Pytorch, as well as fullstack development.
+- Freshman at the National University of Singapore, studying Computer Science with a second major in Statistics.
+- I'm interested in ML/AI and quant development and I'm actively learning more on C++, Pytorch and Tensorflow in my free time.
+- Fullstack development (especially front-end) and software engineering are on the cards as well.
 
-<h3 align="center">Contact/Links</h3>
+<h3 align="center">Contact Me</h3>
 
-- 📩 yeohhanyi0916@gmail.com
-- 🤝 [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
-- 📁 [Resume](https://github.com/yhanyi/yhanyi/blob/main/Resume.pdf)
-- 💻 [Personal Website](https://yeohhanyi.vercel.app)
-- 🤖 [Kaggle](https://www.kaggle.com/yeohhanyi)
+- yeohhanyi0916@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
+- [Resume](https://github.com/yhanyi/yhanyi/blob/main/Resume.pdf)
+- [Personal Website](https://yeohhanyi.vercel.app)
+- [Kaggle](https://www.kaggle.com/yeohhanyi)
 
 <hr/>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Tools and Technologies</h3>
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,threejs,c,cpp"><br>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,r,pytorch,tensorflow,vscode,vim,latex">
+        <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,java,c,r,rust,golang"><br>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,threejs,latex">
     </a>
 </div>
 
