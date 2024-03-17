@@ -7,8 +7,8 @@
 <h3 align="center">About</h3>
 
 - Freshman at the National University of Singapore, studying Computer Science with a second major in Statistics.
-- I'm interested in ML/AI and quant development and I'm actively learning more on C++, Pytorch and Tensorflow in my free time.
-- Fullstack development (especially front-end) and software engineering are on the cards as well.
+- I'm interested in ML/AI and quant development, and I'm actively learning more about C++, Pytorch and Tensorflow in my free time.
+- Fullstack development (especially front-end) and software engineering are still on the cards as well.
 
 <h3 align="center">Contact Me</h3>
 
@@ -24,8 +24,8 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,java,c,r,rust,golang"><br>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,threejs,latex">
+        <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,java,c,r"><br>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,latex">
     </a>
 </div>
 
