@@ -6,9 +6,9 @@
 
 <h3 align="center">About</h3>
 
-- Freshman at the National University of Singapore, studying Computer Science with a second major in Statistics.
-- I'm interested in ML/AI and quant development, and I'm actively learning more about C++, Pytorch and Tensorflow in my free time.
-- Fullstack development (especially front-end) and software engineering are still on the cards as well.
+- I'm a freshman at the National University of Singapore, studying Computer Science with a second major in Statistics.
+- Currently interning at Kabam Robotics over the summer, working on video analytics.
+- I'm interested in ML/AI and quantitative development as well as algorithm theory!
 
 <h3 align="center">Contact Me</h3>
 
@@ -35,8 +35,6 @@
     <img height=160 src="https://yeohhanyi-github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
     <img height=160 src="https://yeohhanyi-github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
 </div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
     <img alt="Contributions Snake" src="https://raw.githubusercontent.com/yhanyi/yhanyi/output/github-contribution-grid-snake.svg" />
