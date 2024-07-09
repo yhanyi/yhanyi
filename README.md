@@ -6,9 +6,9 @@
 
 <h3 align="center">About</h3>
 
-- I'm a freshman at the National University of Singapore, studying Computer Science with a second major in Statistics.
-- Currently interning at Kabam Robotics over the summer, working on video analytics.
-- I'm interested in ML/AI and quantitative development as well as algorithm theory!
+- I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
+- Currently interning at Kabam Robotics as a software engineering intern over the summer, working on video analytics.
+- I'm interested in machine learning, quantitative development and algorithm theory!
 
 <h3 align="center">Contact Me</h3>
 
