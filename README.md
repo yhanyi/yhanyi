@@ -7,16 +7,17 @@
 <h3 align="center">About</h3>
 
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
-- Currently interning at Kabam Robotics as a software engineering intern over the summer, working on video analytics.
-- I'm interested in machine learning, quantitative development and algorithm theory!
+- Currently interning at Kabam Robotics as a software engineering intern over the summer.
+- I'm interested in machine learning, quantitative development and algorithm theory.
 
 <h3 align="center">Contact Me</h3>
 
 - yeohhanyi0916@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
 - [Resume](https://github.com/yhanyi/yhanyi/blob/main/Resume.pdf)
-- [Personal Website](https://yeohhanyi.vercel.app)
+- [Personal Website](https://yeohhanyi.dev)
 - [Kaggle](https://www.kaggle.com/yeohhanyi)
+- [Codeforces](https://codeforces.com/profile/yeohhanyi)
 
 <hr/>
 
