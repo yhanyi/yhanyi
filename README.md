@@ -8,13 +8,12 @@
 
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
 - I'm interested in machine learning, quantitative development and algorithm theory.
-- Software engineering intern @ Kabam Robotics over summer 2024.
+- Software engineering intern @ Kabam Robotics [Summer 2024]
 
 <h3 align="center">Links</h3>
 
 - yeohhanyi0916@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
-- [Resume](https://github.com/yhanyi/yhanyi/blob/main/Resume.pdf)
 - [Personal Website](https://yeohhanyi.dev)
 - [Codeforces](https://codeforces.com/profile/yeohhanyi)
 
