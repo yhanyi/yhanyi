@@ -10,23 +10,52 @@
 - I'm interested in machine learning, quantitative development and algorithm theory.
 - Software engineering intern @ Kabam Robotics [Summer 2024]
 
-<h3 align="center">Links</h3>
-
-- yeohhanyi0916@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/yeoh-han-yi)
-- [Personal Website](https://yeohhanyi.dev)
-- [Codeforces](https://codeforces.com/profile/yeohhanyi)
-
+    <a target="_blank" href="mailto:yeohhanyi0916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/yeoh-han-yi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://yeohhanyi.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=Vercel&logoColor=white"/></a>
+    <a href="https://codeforces.com/profile/yeohhanyi" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/></a>
 <hr/>
 
 <h3 align="center">Tools & Technologies</h3>
 
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,rust,pytorch,tensorflow,java,c,r"><br>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,latex">
-    </a>
-</div>
+`Languages`
+![Python](https://img.shields.io/badge/Python_★★★-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++_★★★-black?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java_★★☆-black?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/C_★★☆-black?style=flat-square&logo=c)
+![R](https://img.shields.io/badge/R_★☆☆-black?style=flat-square&logo=r)
+
+`Frontend`
+![HTML](https://img.shields.io/badge/HTML_★☆☆-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS_★☆☆-black?style=flat-square&logo=css3)
+![Javascript](https://img.shields.io/badge/Javascript_★★☆-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript_★★☆-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React_★★☆-black?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS_★★☆-black?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind_★★☆-black?style=flat-square&logo=tailwindcss)
+
+`AI/ML/Data`
+![Pytorch](https://img.shields.io/badge/Pytorch_★★☆-black?style=flat-square&logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/Tensorflow_★☆☆-black?style=flat-square&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas_★★☆-black?style=flat-square&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy_★★☆-black?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn_★★☆-black?style=flat-square&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV_★★☆-black?style=flat-square&logo=opencv)
+
+`Learning/Want To Learn`
+![Rust](https://img.shields.io/badge/Rust_★☆☆-black?style=flat-square&logo=rust)
+![Go](https://img.shields.io/badge/Go_☆☆☆-black?style=flat-square&logo=go)
+![Redis](https://img.shields.io/badge/Redis_☆☆☆-black?style=flat-square&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka_☆☆☆-black?style=flat-square&logo=apachekafka)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_☆☆☆-black?style=flat-square&logo=kubernetes)
+![LangChain](https://img.shields.io/badge/LangChain_☆☆☆-black?style=flat-square&logo=langchain)
+![SurrealDB](https://img.shields.io/badge/SurrealDB_☆☆☆-black?style=flat-square&logo=surrealdb)
+
+`Misc`
+![Latex](https://img.shields.io/badge/Latex_★★★-black?style=flat-square&logo=latex)
+![Neovim](https://img.shields.io/badge/Neovim_★★☆-black?style=flat-square&logo=neovim)
+![Github](https://img.shields.io/badge/Github_★★☆-black?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/BitBucket_★☆☆-black?style=flat-square&logo=bitbucket)
 
 <hr/>
 
