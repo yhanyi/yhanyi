@@ -42,7 +42,14 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn_★★☆-black?style=flat-square&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV_★★☆-black?style=flat-square&logo=opencv)
 
-`Learning/Want To Learn`
+`Misc/Tools`
+![Docker](https://img.shields.io/badge/Docker_★☆☆-black?style=flat-square&logo=docker)
+![Latex](https://img.shields.io/badge/Latex_★★★-black?style=flat-square&logo=latex)
+![Neovim](https://img.shields.io/badge/Neovim_★★☆-black?style=flat-square&logo=neovim)
+![Github](https://img.shields.io/badge/Github_★★☆-black?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/BitBucket_★☆☆-black?style=flat-square&logo=bitbucket)
+
+`WIP`
 ![Rust](https://img.shields.io/badge/Rust_★☆☆-black?style=flat-square&logo=rust)
 ![Go](https://img.shields.io/badge/Go_☆☆☆-black?style=flat-square&logo=go)
 ![Redis](https://img.shields.io/badge/Redis_☆☆☆-black?style=flat-square&logo=redis)
@@ -50,12 +57,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes_☆☆☆-black?style=flat-square&logo=kubernetes)
 ![LangChain](https://img.shields.io/badge/LangChain_☆☆☆-black?style=flat-square&logo=langchain)
 ![SurrealDB](https://img.shields.io/badge/SurrealDB_☆☆☆-black?style=flat-square&logo=surrealdb)
-
-`Misc`
-![Latex](https://img.shields.io/badge/Latex_★★★-black?style=flat-square&logo=latex)
-![Neovim](https://img.shields.io/badge/Neovim_★★☆-black?style=flat-square&logo=neovim)
-![Github](https://img.shields.io/badge/Github_★★☆-black?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/BitBucket_★☆☆-black?style=flat-square&logo=bitbucket)
 
 <hr/>
 
