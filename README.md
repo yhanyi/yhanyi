@@ -8,7 +8,9 @@
 
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
 - I'm interested in machine learning, quantitative development and algorithm theory.
-- Software engineering intern @ Kabam Robotics [Summer 2024]
+- Experiences
+    - Data Analyst Intern @ GIC [Jan 2025 - Jun 2025]
+    - Software Engineer Intern @ Kabam Robotics [May 2024 - Aug 2024]
 
     <a target="_blank" href="mailto:yeohhanyi0916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/yeoh-han-yi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -61,8 +63,8 @@
 <hr/>
 
 <div align="center">
-    <img height=160 src="https://yeohhanyi-github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
-    <img height=160 src="https://yeohhanyi-github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
+    <img height=160 src="https://yhanyi-github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
+    <img height=160 src="https://yhanyi-github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
 </div>
 
 <div align="center">
