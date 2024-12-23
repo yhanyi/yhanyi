@@ -3,9 +3,9 @@
 <h1 align="center">👋 Yeoh Han Yi</h1>
 
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
-- I'm currently interested in C++ and Rust programming, and I'm exploring Arch Linux as well!
+- I'm currently interested in C++ and Rust programming, and I'm exploring Arch Linux as well.
 - Experience
-    - Data Analyst Intern @ GIC [Jan 2025 - Jun 2025]
+    - Data Analytics Intern @ GIC [Jan 2025 - Jun 2025]
     - Software Engineering Intern @ Kabam Robotics [May 2024 - Aug 2024]
 
     <a target="_blank" href="mailto:yeohhanyi0916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
