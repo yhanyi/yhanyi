@@ -5,8 +5,8 @@
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
 - I'm currently interested in C++ and Rust programming, and I'm exploring Arch Linux as well.
 - Experience
-    - Data Analytics Intern @ GIC [Jan 2025 - Jun 2025]
-    - Software Engineering Intern @ Kabam Robotics [May 2024 - Aug 2024]
+    - Data Analyst Intern @ GIC [Jan 2025 - Jun 2025]
+    - Software Engineer Intern @ Kabam Robotics [May 2024 - Aug 2024]
 
     <a target="_blank" href="mailto:yeohhanyi0916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/yeoh-han-yi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
