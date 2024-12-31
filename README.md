@@ -3,7 +3,7 @@
 <h1 align="center">👋 Yeoh Han Yi</h1>
 
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
-- I'm currently interested in C++ and Rust programming, and I'm exploring Arch Linux as well.
+- I'm currently interested in C++ and Rust, and I'm exploring Arch Linux as well.
 - Experience
     - Data Analyst Intern @ GIC [Jan 2025 - Jun 2025]
     - Software Engineer Intern @ Kabam Robotics [May 2024 - Aug 2024]
@@ -14,8 +14,8 @@
     <a href="https://codeforces.com/profile/yeohhanyi" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/></a>
 
 <div align="center">
-    <img height=160 src="https://yhanyi-github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
-    <img height=160 src="https://yhanyi-github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&hide=jupyter%20notebook,html,css&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhanyi&hide=jupyter%20notebook,html,css&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&" alt="Top Languages" />
 </div>
 
 <div align="center">
