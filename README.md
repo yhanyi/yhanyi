@@ -3,9 +3,9 @@
 <h1 align="center">👋 Yeoh Han Yi</h1>
 
 - I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
-- I'm currently interested in backend / systems engineering, particularly in C++ and Rust.
+- I'm currently interested in backend / systems engineering.
 - Experience
-    - Software Engineer Intern @ GIC (Jan 2025 - Jun 2025)
+    - Quantitative Strategist Intern @ GIC (Jan 2025 - Jun 2025)
     - Software Engineer Intern @ Kabam Robotics (May 2024 - Aug 2024)
     - Software Engineer @ AeroVia (Feb 2025 - Present)
 
@@ -13,6 +13,7 @@
     <a href="https://www.linkedin.com/in/yeoh-han-yi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://yeohhanyi.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=Vercel&logoColor=white"/></a>
     <a href="https://codeforces.com/profile/yeohhanyi" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/yeohhanyi/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-E7A41E?style=flat&logo=Leetcode&logoColor=white"/></a>
 
 <div align="center">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
