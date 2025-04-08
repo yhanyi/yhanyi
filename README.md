@@ -2,10 +2,10 @@
 
 <h1 align="center">👋 Yeoh Han Yi</h1>
 
-- I'm a sophomore at the National University of Singapore, studying Computer Science with a second major in Mathematics.
-- I'm currently interested in backend / systems engineering.
+- I'm a computer science sophomore at the National University of Singapore.
+- I'm currently interested in learning more about backend / systems engineering.
 - Experience
-    - Sofware Engineer / Quantitative Strategist Intern @ GIC (Jan 2025 - Jun 2025)
+    - Sofware Engineer Intern @ GIC (Jan 2025 - Jun 2025)
     - Software Engineer Intern @ Kabam Robotics (May 2024 - Aug 2024)
     - Software Engineer @ AeroVia (Feb 2025 - Present)
 
