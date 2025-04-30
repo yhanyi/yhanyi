@@ -3,7 +3,7 @@
 - I'm a computer science sophomore at the National University of Singapore.
 - I'm interested in learning more about systems/high-performance programming.
 - Experience
-  - Sofware Engineer Intern @ GIC (Jan 2025 - Jun 2025)
+  - Sofware Engineer Intern @ GIC (Jan 2025 - Present)
   - Software Engineer @ AeroVia (Feb 2025 - Present)
   - Software Engineer Intern @ Kabam Robotics (May 2024 - Aug 2024)
 
