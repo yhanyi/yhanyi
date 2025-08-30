@@ -1,8 +1,8 @@
 **Hey, I'm Han Yi 👋**
 
-I'm a penultimate Computer Science major at the National University of Singapore. I'm interested in learning more about systems programming involving high performance and low latency. I also like C++ and Rust!
+I'm a penultimate Computer Science major at the National University of Singapore. I'm interested in learning more about systems programming involving high performance and low latency. I also really like C++ lmao.
 
-I will be incoming at ByteDance, am currently interning at Moonvault, and have previously interned at GIC and Kabam Robotics. I've contributed to GRT and AeroVia as well.
+Currently interning at ByteDance. Previously interned at Moonvault, GIC and Kabam Robotics.
 
 <!-- <div align="center">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=yhanyi&show_icons=true&theme=tokyonight&border_radius=10" alt="Github Statistics" />
